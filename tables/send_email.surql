@@ -2,7 +2,7 @@ DEFINE TABLE send_email SCHEMALESS
     PERMISSIONS NONE DROP;
 
 DEFINE FIELD from_name ON TABLE send_email TYPE string VALUE $value OR 'Kards Social';
-DEFINE FIELD from_email ON TABLE send_email TYPE string VALUE $value OR 'noreply@kards.social' ASSERT is::email($value);
+DEFINE FIELD from_email ON TABLE send_email TYPE string VALUE $value OR 'noreply@healxyz.com' ASSERT is::email($value);
 DEFINE FIELD to_name ON TABLE send_email TYPE string;
 DEFINE FIELD to_email ON TABLE send_email TYPE string ASSERT is::email($value);
 DEFINE FIELD subject ON TABLE send_email TYPE string;

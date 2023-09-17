@@ -23,7 +23,7 @@ export function Logo({ size = 200, className }: SvgBaseProps) {
                     rx={14.892}
                     transform="matrix(.986 -.16678 .18078 .98352 -2.841 47.026)"
                     className="fillDark"
-                    stroke="#F7F3E3"
+                    stroke="#FFFFFF"
                     strokeWidth={3}
                 />
                 <rect
@@ -77,7 +77,7 @@ export function LogoSmall({ size = 200, className }: SvgBaseProps) {
                     rx={14.892}
                     transform="matrix(.986 -.16678 .18078 .98352 -2.841 47.026)"
                     className="fillDark"
-                    stroke="#F7F3E3"
+                    stroke="#FFFFFF"
                     strokeWidth={3}
                 />
                 <rect

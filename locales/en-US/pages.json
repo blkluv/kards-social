@@ -14,7 +14,7 @@
       "submitted": {
         "invalid-name": "Please enter your full name",
         "invalid-email": "Please enter a valid email",
-        "error": "Something went wrong, please try again later or contact hi@kards.social (Code: {{code, string}})",
+        "error": "Something went wrong, please try again later or contact hi@healxyz.com (Code: {{code, string}})",
         "success": "Check you inbox and spam for a verification email!"
       }
     },
@@ -93,7 +93,7 @@
       },
       "submitted": {
         "error-email": "It is not yet possible to update your email.",
-        "error-failed": "Failed to save your profile, please contact hi@kards.social if the issue persists.",
+        "error-failed": "Failed to save your profile, please contact info@healxyz.com if the issue persists.",
         "success": "Updated your profile!",
         "button": "Save profile"
       }

@@ -2,7 +2,7 @@ const fs = require('fs');
 
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: process.env.SITE_URL || 'https://kards.social',
+    siteUrl: process.env.SITE_URL || 'https://healxyz.com',
     generateRobotsTxt: true, 
     outDir: 'out',
     transform: async (config, path) => {

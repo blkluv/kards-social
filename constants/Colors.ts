@@ -1,9 +1,9 @@
 export const Color = {
     Tint: '#F98C10',
 
-    Light: '#F7F3E3',
+    Light: '#FFFFFF',
     LightTintLight: '#ffffff',
-    LightTintLightHover: '#F7F3E3',
+    LightTintLightHover: '#FFFFFF',
     LightTintDark: '#F2EBCF',
     LightTintDarkHover: '#EDE4BF',
 

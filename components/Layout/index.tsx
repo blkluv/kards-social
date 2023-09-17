@@ -52,11 +52,11 @@ export default function Layout({
                     }
                 />
                 <meta name="og:type" content="website" />
-                <meta name="og:url" content="https://kards.social/" />
+                <meta name="og:url" content="https://healxyz.com/" />
                 <meta
                     name="og:image"
                     itemProp="image primaryImageOfPage"
-                    content="https://kards.social/Logo.png"
+                    content="https://healxyz.com/Logo.png"
                 />
                 <meta
                     name="og:site_name"
